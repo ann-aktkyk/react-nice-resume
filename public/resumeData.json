@@ -3,17 +3,17 @@
     "name":"Yuki's Portfolio",
     "description":"C# + Unity Programmer , and WebCorder",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"学生時代、C/C++とDirectXでゲーム制作を実施。実務ではExell、Pythonで自動化処理、統計解析、業務効率化に従事。趣味でC#とUnityでVR関係を学習。現職：プログラミング塾講師。スキルアップのため、HTML/CSS、Javascript、Typescript、React、Vue.jsを学習。営業職時代にマーケティングを学び、現在に至る",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "",
-    "phone": "",
+    "email": "youremailhere@gmail.com",
+    "phone": "555-555-5555",
     "github":"https://github.com/nordicgiant2/react-nice-resume",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
-      "street":"",
-      "city":"",
-      "state":"",
-      "zip": ""
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
@@ -29,31 +29,20 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"商業高校卒",
+        "description":""
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "title":"プログラミング塾講師",
+        "description":"Web開発基礎、Unity、C#について生徒に教授"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
+        "title":"",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      }
+      },
+      {}
     ],
     "skills":[
       {
