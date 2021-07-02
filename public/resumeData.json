@@ -29,8 +29,9 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"商業高校卒",
-        "description":""
+        "school":"愛媛県立三島高等学校卒",
+        "degree":"商業デザイン学科",
+        "description":"企業ロゴ、ブランドロゴのデザイン制作、簿記・Exell等事務技術、商業関係法律の学習"
       }
     ],
     "work":[
